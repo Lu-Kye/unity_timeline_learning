@@ -4,7 +4,10 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Main.scene
+    guid: 01f417183321766449386390c763f08b
   m_configObjects: {}
   m_SlimFeaturesWeixinMiniGame:
     AllocateOverhead: 1
